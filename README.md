@@ -6,7 +6,6 @@
   <img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-PCarlos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
- <!--
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
